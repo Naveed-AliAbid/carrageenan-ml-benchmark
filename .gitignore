@@ -1,0 +1,24 @@
+# Bytecode and runtime caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS metadata
+.DS_Store
+Thumbs.db

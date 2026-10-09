@@ -1,0 +1,12 @@
+[
+ {
+  "jitter": 3.0,
+  "fpr_pointwise": 0.0,
+  "fpr_replicate": 0.036
+ },
+ {
+  "jitter": 15.0,
+  "fpr_pointwise": 0.306,
+  "fpr_replicate": 0.04
+ }
+]
