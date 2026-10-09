@@ -3,7 +3,8 @@ message: "If you use this benchmark or code, please cite it as below."
 title: "When does machine learning recover the physics? A synthetic-benchmark tutorial for structure-property modelling of metal-crosslinked carrageenan hydrogels"
 type: article
 authors:
-  - name: "SynthBench Authors"
+  - family-names: "Ali"
+    given-names: "Naveed"
 keywords:
   - "machine learning"
   - "synthetic benchmark"
@@ -14,3 +15,5 @@ keywords:
   - "Gaussian process regression"
 license: "MIT"
 date-released: 2026-10-09
+url: "https://github.com/Naveed-AliAbid/carrageenan-ml-benchmark"
+repository-code: "https://github.com/Naveed-AliAbid/carrageenan-ml-benchmark"
