@@ -89,12 +89,3 @@ python3 figures.py
 
 All pseudo-random number generator seeds are fixed for exact reproducibility.
 
-## Citation
-
-  note    = {In review}
-}
-
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
