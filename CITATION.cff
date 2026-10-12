@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this benchmark or code, please cite it as below."
+authors:
+  - family-names: "Salman"
+    given-names: "Saad"
+    orcid: "https://orcid.org/0000-0001-6592-9812"
+title: "When does machine learning recover the physics? A synthetic-benchmark tutorial for structure–property modelling of metal-crosslinked carrageenan hydrogels"
+repository-code: "https://github.com/Naveed-AliAbid/carrageenan-ml-benchmark"
