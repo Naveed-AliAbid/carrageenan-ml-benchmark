@@ -91,17 +91,9 @@ All pseudo-random number generator seeds are fixed for exact reproducibility.
 
 ## Citation
 
-If you use this benchmark or code, cite the accompanying paper:
-
-```bibtex
-@article{synthbench2026,
-  title   = {When does machine learning recover the physics? A synthetic-benchmark tutorial for structure--property modelling of metal-crosslinked carrageenan hydrogels},
-  author  = {[Author names]},
-  journal = {Digital Discovery},
-  year    = {2026},
   note    = {In review}
 }
-```
+
 
 ## License
 
